@@ -5,6 +5,8 @@ title: Getting Started with Typescript
 
 Now that Angular 2 has been released you may have noticed, while looking over the docs, that Angular 2 uses Typescript. While I initally found it strange, Typescript is something that has grown on me, and I have started incorporating it into my non-Angular 2 projects at work. 
 
+You can get started using Typescript (here)[https://www.typescriptlang.org/index.html]
+
 ### What is Typescript? 
 
 Essentially, Typescript is an extension to Javascript that gives you many of the same benefits strongly typed languages, like Java and C#, enjoy like static checking, classes, and interfaces. 
