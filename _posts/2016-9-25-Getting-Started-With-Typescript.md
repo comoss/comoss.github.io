@@ -35,6 +35,6 @@ Our first function ran great! We can also see that at the time of compiling down
 
 In addition to having the extra security of type checking, and as we saw above, Typescript compiles down to just regular Javascript and supports many of the es6 features that are currenly only available through using compilers like babel. The provides an enhanced programmer experience. 
 
-### conclusion
+### Conclusion
 
 In ending, I like Typescript, I like how easy it has been for me to be able to start integrating it into our already exsisting codebase, and the security it provides by ensuring consistency across our codebase. 
