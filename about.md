@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Software Engineer at Little Giant Ladder Systems. I mainly work with Javascript and front-end tech, but I do get to dabble in C# and TSQL. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I got my start coding at [devmountain](https://devmountain.com/), while I was working on my undergraduate in International Relations. Currenly I'm digging Typescript, Angular 2 and ReactJS. 
 
-### Contact me
+### Contact me on twitter:
 
-[email@domain.com](mailto:email@domain.com)
+ [@_comoss](https://twitter.com/_comoss)
