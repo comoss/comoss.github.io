@@ -31,8 +31,10 @@ We can see that if two numbers are passed in then things work out well and `addT
 
 Our first function ran great! We can also see that at the time of compiling down to regular Javascript, Typescript returns a type error stating that we cannot pass a string in for a parameter that should be a number! This is great because now, we know that before anything ran, we have an error and that we need to introduce code to ensure that we are passing in the correct data types. For example we could make sure that we aways pass in a number by doing something like this: 
 
-    addTotal(10, Number('5')) // 15 - tears of joy - ( ͡↑ ͜ʖ ͡↑) 
+    addTotal(10, Number('5')) // 15 
 
 In addition to having the extra security of type checking, and as we saw above, Typescript compiles down to just regular Javascript and supports many of the es6 features that are currenly only available through using compilers like babel. The provides an enhanced programmer experience. 
+
+### conclusion
 
 In ending, I like Typescript, I like how easy it has been for me to be able to start integrating it into our already exsisting codebase, and the security it provides by ensuring consistency across our codebase. 
